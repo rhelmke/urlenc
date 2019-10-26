@@ -108,7 +108,7 @@ http://example.net/search?q=^START^<script>alert(/XSS/)</script>^STOP^
 ```
 
 Finally, pipe it to urlenc:
-[![regions](https://i.imgur.com/kodr9qG.gif)](https://asciinema.org/a/hd09IPZP6AV0XgAXvQHu8dYMz?autoplay=1&theme=monokai)
+[![regions](https://i.imgur.com/YUCIciB.gif)](https://asciinema.org/a/JRHjIYiwhVIbkkn2LLqn4H8rc?autoplay=1&theme=monokai)
 
 ----
 
